@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "EPICUREAN",
+    "slug": "epicurean",
+    "scheme": "epicurean",
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
